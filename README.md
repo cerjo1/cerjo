@@ -1,6 +1,6 @@
    ## Olá, meu nome é Sérgio! 👋
 
-   - 📒 Estudante de Ciência da Computação no PUC-GO
+   - 📒 Estudante de Ciência da Computação na PUC-GO
    - 🖥️ Iniciando na Computação (edito imagem nas horas vagas)
    - 📚 Atualmente estou estudando C.
 
